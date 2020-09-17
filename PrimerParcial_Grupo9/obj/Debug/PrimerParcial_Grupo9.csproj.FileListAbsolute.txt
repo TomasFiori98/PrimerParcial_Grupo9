@@ -1,0 +1,6 @@
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PRIMER PARCIAL\PrimerParcial_Grupo9\PrimerParcial_Grupo9\bin\Debug\PrimerParcial_Grupo9.exe.config
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PRIMER PARCIAL\PrimerParcial_Grupo9\PrimerParcial_Grupo9\bin\Debug\PrimerParcial_Grupo9.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PRIMER PARCIAL\PrimerParcial_Grupo9\PrimerParcial_Grupo9\bin\Debug\PrimerParcial_Grupo9.pdb
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PRIMER PARCIAL\PrimerParcial_Grupo9\PrimerParcial_Grupo9\obj\Debug\PrimerParcial_Grupo9.csprojResolveAssemblyReference.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PRIMER PARCIAL\PrimerParcial_Grupo9\PrimerParcial_Grupo9\obj\Debug\PrimerParcial_Grupo9.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\PRIMER PARCIAL\PrimerParcial_Grupo9\PrimerParcial_Grupo9\obj\Debug\PrimerParcial_Grupo9.pdb
